@@ -2,7 +2,7 @@
 Star Rats is an asteroids-style space shooter game created with Java FX 8. This code is for demonstration purposes only, if you wish to play the game, download the project directory and open in Netbeans to compile.
 ## Screenshots
 
-  <img src="https://github.com/jdiggins/java-space-game/blob/master/images/str-scrn-1.png?raw=true" alt=""/>
+  <img src="https://github.com/jdiggins/java-space-game/blob/master/images/str-scrn-1.png?raw=true" width="100" alt=""/>
   <img src="https://github.com/jdiggins/java-space-game/blob/master/images/str-scrn-2.png?raw=true" alt=""/>
 
 ## Video
