@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/John/Desktop/Java/StarRats/nbproject/build-impl.xml</file>
+            <file>file:/Users/John/Desktop/Java/StarRats/src/starrats/GameCanvas.java</file>
+            <file>file:/Users/John/Desktop/Java/StarRats/src/starrats/KeyInput.java</file>
+            <file>file:/Users/John/Desktop/Java/StarRats/src/starrats/BigEnemy.java</file>
+            <file>file:/Users/John/Desktop/Java/StarRats/src/starrats/GameLoop.java</file>
+            <file>file:/Users/John/Desktop/Java/StarRats/src/starrats/Stars.java</file>
+            <file>file:/Users/John/Desktop/Java/StarRats/src/starrats/UserMenu.java</file>
+            <file>file:/Users/John/Desktop/Java/StarRats/src/starrats/Handler.java</file>
+            <file>file:/Users/John/Desktop/Java/StarRats/src/starrats/Game.java</file>
+            <file>file:/Users/John/Desktop/Java/StarRats/src/starrats/ID.java</file>
+            <file>file:/Users/John/Desktop/Java/StarRats/src/starrats/NumberGenerator.java</file>
+            <file>file:/Users/John/Desktop/Java/StarRats/src/starrats/Enemy.java</file>
+            <file>file:/Users/John/Desktop/Java/StarRats/src/starrats/SmallEnemy.java</file>
+            <file>file:/Users/John/Desktop/Java/StarRats/src/starrats/HUD.java</file>
+            <file>file:/Users/John/Desktop/Java/StarRats/src/starrats/GameObject.java</file>
+            <file>file:/Users/John/Desktop/Java/StarRats/src/starrats/Player.java</file>
+            <file>file:/Users/John/Desktop/Java/StarRats/src/starrats/Weapon.java</file>
+            <file>file:/Users/John/Desktop/Java/StarRats/src/starrats/UpgradePane.java</file>
+        </group>
+    </open-files>
+</project-private>
