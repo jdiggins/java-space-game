@@ -1,2 +1,4 @@
 # java-space-game
-An astroids style space shooter game created with Java FX
+An asteroids-style space shooter game created with Java FX
+
+
